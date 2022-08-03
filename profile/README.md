@@ -8,7 +8,7 @@ The application follow a microservices architecture by running multiple small se
 ## Workflow
 Every services have their own unique GitHub Action script that build and push their images into a docker repository. A repository dispatch trigger the GitHub Action of the *Deployment* repository composed with multiple configuration and testing files, deploy the updated application on Google Cloud, and then run multiple tests on each API endpoints.
 
-## Credit
+## Credits
 *Authors: Yoann Renard ( Backend ) - Elise Rey ( Frontend ) - Yanis Benhalima ( NFTs ) - Timmy Villeminot ( Authentication )*
 
 *School project, ***ISEN Yncrea Méditerranée, Toulon**.**
