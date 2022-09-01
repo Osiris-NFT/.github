@@ -13,5 +13,5 @@ Every services have their own unique GitHub Action script that builds and pushes
 
 *School project, ***ISEN Yncrea Méditerranée, Toulon**.**
 
-## Demo
+## Quick demo
 <img src="https://user-images.githubusercontent.com/81624725/186377185-1c2476de-a8a5-4a17-9915-8a093008fa1d.gif" width="30%"/>
